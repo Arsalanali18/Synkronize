@@ -2,7 +2,7 @@
 
 An enterprise-grade, responsive frontend architecture designed for personal finance and subscription management. Built with React, TypeScript, and Vite, this application focuses on delivering a high-performance user experience coupled with modern UI/UX design principles.
 
-This repository contains the client-side application. The accompanying RESTful API and database architecture can be found in the [synk-backend](LINK_TO_YOUR_BACKEND_REPO) repository.
+This repository contains the client-side application. The accompanying RESTful API and database architecture can be found in the [synk-backend](https://github.com/Arsalanali18/synk-backend) repository.
 
 ---
 
